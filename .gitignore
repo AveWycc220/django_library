@@ -1,2 +1,4 @@
 django_library/__pycache__/
 riddles/__pycache__/
+.vscode/
+django_libraryenv/
