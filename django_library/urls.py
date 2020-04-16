@@ -22,6 +22,6 @@ urlpatterns = [
 ]
 
 urlpatterns = [
-    url(r'^riddles/', include('riddles.urls')),
+    url(r'^library/', include('library.urls')),
     url(r'^admin/', admin.site.urls),
 ]

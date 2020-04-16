@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class RiddlesConfig(AppConfig):
-    name = 'riddles'
+class LibraryConfig(AppConfig):
+    name = 'library'
